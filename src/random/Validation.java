@@ -21,5 +21,18 @@ public class Validation {
 		// 2. Repeat all the code above 10 times
 		
 		// 3. Find someone to test out your program. They will like it :)
+ 
+if( randomNumber ==0) { 
+	JOptionPane.showMessageDialog(null, "You're AMAZING!");
+
+}
+if( randomNumber ==1) {
+	JOptionPane.showMessageDialog(null, "Your so Genrous!");
+	
+}
+if( randomNumber ==2) {
+	JOptionPane.showMessageDialog(null, "You're Positive");
+	}
 	}
 }
+
